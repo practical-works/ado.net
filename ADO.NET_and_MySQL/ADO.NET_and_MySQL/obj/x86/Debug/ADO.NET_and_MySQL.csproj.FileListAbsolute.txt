@@ -1,0 +1,9 @@
+C:\Users\Abdelhakim\Desktop\ADO.NET_and_MySQL\ADO.NET_and_MySQL\bin\Debug\ADO.NET_and_MySQL.exe
+C:\Users\Abdelhakim\Desktop\ADO.NET_and_MySQL\ADO.NET_and_MySQL\bin\Debug\ADO.NET_and_MySQL.exe.config
+C:\Users\Abdelhakim\Desktop\ADO.NET_and_MySQL\ADO.NET_and_MySQL\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Abdelhakim\Desktop\ADO.NET_and_MySQL\ADO.NET_and_MySQL\obj\x86\Debug\ADO.NET_and_MySQL.Form_Main.resources
+C:\Users\Abdelhakim\Desktop\ADO.NET_and_MySQL\ADO.NET_and_MySQL\obj\x86\Debug\ADO.NET_and_MySQL.Properties.Resources.resources
+C:\Users\Abdelhakim\Desktop\ADO.NET_and_MySQL\ADO.NET_and_MySQL\obj\x86\Debug\ADO.NET_and_MySQL.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Desktop\ADO.NET_and_MySQL\ADO.NET_and_MySQL\obj\x86\Debug\ADO.NET_and_MySQL.exe
+C:\Users\Abdelhakim\Desktop\ADO.NET_and_MySQL\ADO.NET_and_MySQL\obj\x86\Debug\ADO.NET_and_MySQL.pdb
+C:\Users\Abdelhakim\Desktop\ADO.NET_and_MySQL\ADO.NET_and_MySQL\bin\Debug\ADO.NET_and_MySQL.pdb

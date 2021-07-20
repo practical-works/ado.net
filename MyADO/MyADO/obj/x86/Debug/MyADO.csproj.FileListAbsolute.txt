@@ -1,0 +1,14 @@
+C:\Users\Ambratolm\Desktop\MyADO\MyADO\obj\x86\Debug\MyADO.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\MyADO\MyADO\obj\x86\Debug\MyADO.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\MyADO\MyADO\bin\Debug\MyADO.exe
+C:\Users\Ambratolm\Desktop\MyADO\MyADO\bin\Debug\MyADO.pdb
+C:\Users\Ambratolm\Desktop\MyADO\MyADO\obj\x86\Debug\MyADO.exe
+C:\Users\Ambratolm\Desktop\MyADO\MyADO\obj\x86\Debug\MyADO.pdb
+C:\Users\Ambratolm\Desktop\MyADO\MyADO\obj\x86\Debug\MyADO.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Desktop\MyADO\MyADO\obj\x86\Debug\MyADO.Interfaces.Form_Accés.resources
+C:\Users\Ambratolm\Desktop\MyADO\MyADO\obj\x86\Debug\MyADO.Interfaces.Form_Gestion.resources
+C:\Users\Ambratolm\Desktop\MyADO\MyADO\obj\x86\Debug\MyADO.Interfaces.Form_Paramètres.resources
+C:\Users\Ambratolm\Desktop\MyADO\MyADO\bin\Debug\MyADO.exe.config
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\MyADO\MyADO\bin\Debug\MyADO.exe.config
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\MyADO\MyADO\obj\x86\Debug\MyADO.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\MyADO\MyADO\obj\x86\Debug\MyADO.pdb

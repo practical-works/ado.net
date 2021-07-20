@@ -1,0 +1,16 @@
+C:\Users\Ambratolm\Desktop\ADO_Layers\ADO_Layers\bin\Debug\ADO_Layers.exe
+C:\Users\Ambratolm\Desktop\ADO_Layers\ADO_Layers\bin\Debug\ADO_Layers.pdb
+C:\Users\Ambratolm\Desktop\ADO_Layers\ADO_Layers\obj\x86\Debug\ADO_Layers.Form_Main.resources
+C:\Users\Ambratolm\Desktop\ADO_Layers\ADO_Layers\obj\x86\Debug\ADO_Layers.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\ADO_Layers\ADO_Layers\obj\x86\Debug\ADO_Layers.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\ADO_Layers\ADO_Layers\obj\x86\Debug\ADO_Layers.exe
+C:\Users\Ambratolm\Desktop\ADO_Layers\ADO_Layers\obj\x86\Debug\ADO_Layers.pdb
+C:\Users\Ambratolm\Desktop\ADO_Layers\ADO_Layers\obj\x86\Debug\ADO_Layers.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\ADO_Layers\ADO_Layers\obj\x86\Debug\ADO_Layers.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\ADO_Layers\ADO_Layers\obj\x86\Debug\ADO_Layers.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\ADO_Layers\ADO_Layers\bin\Debug\ADO_Layers.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\ADO_Layers\ADO_Layers\bin\Debug\ADO_Layers.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\ADO_Layers\ADO_Layers\obj\x86\Debug\ADO_Layers.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\ADO_Layers\ADO_Layers\obj\x86\Debug\ADO_Layers.Form_Main.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\ADO_Layers\ADO_Layers\obj\x86\Debug\ADO_Layers.Properties.Resources.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\ADO_Layers\ADO_Layers\obj\x86\Debug\ADO_Layers.csproj.GenerateResource.Cache

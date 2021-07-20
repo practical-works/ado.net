@@ -1,0 +1,8 @@
+C:\Users\Ambratolm\Desktop\ADO_DataBindings_Code\ADO_DataBindings_Code\bin\Debug\ADO_DataBindings_Code.exe
+C:\Users\Ambratolm\Desktop\ADO_DataBindings_Code\ADO_DataBindings_Code\bin\Debug\ADO_DataBindings_Code.pdb
+C:\Users\Ambratolm\Desktop\ADO_DataBindings_Code\ADO_DataBindings_Code\obj\x86\Debug\ADO_DataBindings_Code.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\ADO_DataBindings_Code\ADO_DataBindings_Code\obj\x86\Debug\ADO_DataBindings_Code.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\ADO_DataBindings_Code\ADO_DataBindings_Code\obj\x86\Debug\ADO_DataBindings_Code.exe
+C:\Users\Ambratolm\Desktop\ADO_DataBindings_Code\ADO_DataBindings_Code\obj\x86\Debug\ADO_DataBindings_Code.pdb
+C:\Users\Ambratolm\Desktop\ADO_DataBindings_Code\ADO_DataBindings_Code\obj\x86\Debug\ADO_DataBindings_Code.Form_main.resources
+C:\Users\Ambratolm\Desktop\ADO_DataBindings_Code\ADO_DataBindings_Code\obj\x86\Debug\ADO_DataBindings_Code.csprojResolveAssemblyReference.cache

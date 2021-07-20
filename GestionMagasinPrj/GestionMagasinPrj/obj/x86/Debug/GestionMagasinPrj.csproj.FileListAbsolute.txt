@@ -1,0 +1,10 @@
+C:\Users\Ambratolm\Desktop\GestionMagasinPrj\GestionMagasinPrj\obj\x86\Debug\GestionMagasinPrj.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\GestionMagasinPrj\GestionMagasinPrj\obj\x86\Debug\GestionMagasinPrj.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\GestionMagasinPrj\GestionMagasinPrj\bin\Debug\GestionMagasinPrj.exe
+C:\Users\Ambratolm\Desktop\GestionMagasinPrj\GestionMagasinPrj\bin\Debug\GestionMagasinPrj.pdb
+C:\Users\Ambratolm\Desktop\GestionMagasinPrj\GestionMagasinPrj\obj\x86\Debug\GestionMagasinPrj.Présentation.FormClient.resources
+C:\Users\Ambratolm\Desktop\GestionMagasinPrj\GestionMagasinPrj\obj\x86\Debug\GestionMagasinPrj.exe
+C:\Users\Ambratolm\Desktop\GestionMagasinPrj\GestionMagasinPrj\obj\x86\Debug\GestionMagasinPrj.pdb
+C:\Users\Ambratolm\Desktop\GestionMagasinPrj\GestionMagasinPrj\obj\x86\Debug\GestionMagasinPrj.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\GestionMagasinPrj\GestionMagasinPrj\obj\x86\Debug\GestionMagasinPrj.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\GestionMagasinPrj\GestionMagasinPrj\obj\x86\Debug\GestionMagasinPrj.pdb

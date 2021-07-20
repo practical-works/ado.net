@@ -1,0 +1,21 @@
+C:\Users\Ambratolm\Desktop\TESTS_CSHARP\TESTS_CSHARP\bin\Debug\TESTS_CSHARP.exe
+C:\Users\Ambratolm\Desktop\TESTS_CSHARP\TESTS_CSHARP\bin\Debug\TESTS_CSHARP.pdb
+C:\Users\Ambratolm\Desktop\TESTS_CSHARP\TESTS_CSHARP\obj\x86\Debug\TESTS_CSHARP.Form1.resources
+C:\Users\Ambratolm\Desktop\TESTS_CSHARP\TESTS_CSHARP\obj\x86\Debug\TESTS_CSHARP.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\TESTS_CSHARP\TESTS_CSHARP\obj\x86\Debug\TESTS_CSHARP.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\TESTS_CSHARP\TESTS_CSHARP\obj\x86\Debug\TESTS_CSHARP.exe
+C:\Users\Ambratolm\Desktop\TESTS_CSHARP\TESTS_CSHARP\obj\x86\Debug\TESTS_CSHARP.pdb
+C:\Users\Ambratolm\Desktop\TESTS_CSHARP\TESTS_CSHARP\obj\x86\Debug\TESTS_CSHARP.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\TESTS_CSHARP\TESTS_CSHARP\obj\x86\Debug\TESTS_CSHARP.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\TESTS_CSHARP\TESTS_CSHARP\obj\x86\Debug\TESTS_CSHARP.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\TESTS_CSHARP\TESTS_CSHARP\obj\x86\Debug\TESTS_CSHARP.Form1.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\TESTS_CSHARP\TESTS_CSHARP\obj\x86\Debug\TESTS_CSHARP.Properties.Resources.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\TESTS_CSHARP\TESTS_CSHARP\obj\x86\Debug\TESTS_CSHARP.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\TESTS_CSHARP\TESTS_CSHARP\bin\Debug\TESTS_CSHARP.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\TESTS_CSHARP\TESTS_CSHARP\bin\Debug\TESTS_CSHARP.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\TESTS_CSHARP\TESTS_CSHARP\obj\x86\Debug\TESTS_CSHARP.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\TESTS_CSHARP\TESTS_CSHARP\obj\x86\Debug\TESTS_CSHARP.Form2.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\TESTS_CSHARP\TESTS_CSHARP\bin\Debug\MetroFramework.dll
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\TESTS_CSHARP\TESTS_CSHARP\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\TESTS_CSHARP\TESTS_CSHARP\obj\x86\Debug\TESTS_CSHARP.Form3.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\TESTS_CSHARP\TESTS_CSHARP\obj\x86\Debug\TESTS_CSHARP.Form4.resources

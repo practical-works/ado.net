@@ -1,0 +1,7 @@
+C:\Users\Ambratolm\Desktop\ADO_Binding\ADO_Binding\bin\Debug\ADO_Binding.exe
+C:\Users\Ambratolm\Desktop\ADO_Binding\ADO_Binding\bin\Debug\ADO_Binding.pdb
+C:\Users\Ambratolm\Desktop\ADO_Binding\ADO_Binding\obj\x86\Debug\ADO_Binding.Form_Main.resources
+C:\Users\Ambratolm\Desktop\ADO_Binding\ADO_Binding\obj\x86\Debug\ADO_Binding.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\ADO_Binding\ADO_Binding\obj\x86\Debug\ADO_Binding.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\ADO_Binding\ADO_Binding\obj\x86\Debug\ADO_Binding.exe
+C:\Users\Ambratolm\Desktop\ADO_Binding\ADO_Binding\obj\x86\Debug\ADO_Binding.pdb
